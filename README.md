@@ -9,7 +9,7 @@
    <img alt="Notion" src="https://img.shields.io/badge/Notion-FFF.svg?style=for-the-badge&logo=notion&logoColor=black" />
  </a>
  <a href="https://issei1213.github.io/" target="_blank">
-   <img alt="Blog" src="https://img.shields.io/badge/MY_BLOG-red.svg?&style=for-the-badge" />
+   <img alt="Blog" src="https://img.shields.io/badge/PRIVATE_BLOG-black.svg?&style=for-the-badge" />
  </a>
   <a href="https://zenn.dev/issei1213" target="_blank">
    <img alt="Zenn" src="https://img.shields.io/badge/zenn-FFF.svg?&style=for-the-badge&logo=zenn" />
