@@ -1,4 +1,4 @@
-## Posts
+## Learning Note
 
 - Blog: [https://issei1213.github.io/](https://issei1213.github.io/)
 - Scrapbox: [https://scrapbox.io/issei1213/](https://scrapbox.io/issei1213/)
