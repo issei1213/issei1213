@@ -1,3 +1,7 @@
+ <p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=issei1213" />
+ </p>
+
 ## 📔Learning Note
 
 - Scrapbox: [https://scrapbox.io/issei1213/](https://scrapbox.io/issei1213/)
